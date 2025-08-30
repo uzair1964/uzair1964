@@ -65,7 +65,7 @@
 
 
 
-> **Tip:** Rename your repos to match these slugs or change links above.
+> 
 
 ---
 
