@@ -25,7 +25,7 @@
 - 📊 Love **Power BI & Excel** for crisp business storytelling  
 - 🧠 Exploring **ML/NLP**, model evaluation, and feature engineering  
 - 🎯 Goal: ship insightful, production-ready analytics  
-- 🌍 Dream: **Master’s in Data Science (Germany)**  
+- 🌍 Dream: **Master’s in Data Science (masai)**  
 
 ---
 
