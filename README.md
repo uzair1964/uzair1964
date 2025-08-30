@@ -9,6 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+Uzair!;Turning+Data+Into+Decisions%2C+Daily.;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Always+learning+%26+building+cool+things+%F0%9F%9A%80" />
 </p>
 
+
 <p align="center">
   <a href="mailto:uzairkhan19643@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-uzairkhan19643%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/uzairkhan1212"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -53,6 +54,13 @@
     <img height="150"
          src="https://github-readme-stats.vercel.app/api/pin/?username=uzair1964&repo=Blink-it&theme=radical" />
   </a>
+  <p align="center">
+  <a href="https://github.com/uzair1964/Automate-WhatsApp">
+    <img height="150"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=uzair1964&repo=Automate-WhatsApp&title_color=39FF14&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&hide_border=true" />
+  </a>
+</p>
+
 </p>
 
 
