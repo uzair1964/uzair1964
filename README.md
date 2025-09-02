@@ -19,13 +19,21 @@
 
 ---
 
-<!-- ABOUT -->
-## 👋 About Me
-- 🔭 Building end-to-end **data projects**: cleaning → EDA → modeling → dashboards  
-- 📊 Love **Power BI & Excel** for crisp business storytelling  
-- 🧠 Exploring **ML/NLP**, model evaluation, and feature engineering  
-- 🎯 Goal: ship insightful, production-ready analytics  
-  
+# About
+
+🧑‍💻 **Name:** Mohd Uzair Khan
+
+🎓 **Education:**
+- Bachelor of Computer Applications 
+- Masai School — Data Science
+
+🧠 **Focus:** Data Science & Analytics (EDA, feature engineering, baseline ML models)
+
+⚙️ **Tech Snapshot:** 🐍 Python (pandas, NumPy) · 🤖 scikit-learn · 🗄️ SQL (MySQL/PostgreSQL) · 📊 Power BI · 📈 Excel
+
+📌 **Interests:** Retail analytics, forecasting, dashboards, clean data pipelines
+
+🚧 **Current:** Building small projects and sharing notebooks/dashboards to sharpen skills
 
 ---
 
