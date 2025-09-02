@@ -67,6 +67,12 @@
     <img height="150"
          src="https://github-readme-stats.vercel.app/api/pin/?username=uzair1964&repo=Automate-WhatsApp&title_color=39FF14&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&hide_border=true" />
   </a>
+<p align="center">
+  <a href="https://github.com/uzair1964/retail-sales-analytics">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=uzair1964&repo=retail-sales-analytics&theme=radical" />
+  </a>
+</p>
+
 </p>
 
 </p>
