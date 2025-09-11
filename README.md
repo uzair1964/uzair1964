@@ -40,7 +40,7 @@
 <!-- SKILLS: icons row -->
 ## 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,py,sklearn,pandas,numpy,matplotlib,postgres,mysql,sqlite,git,github,powershell,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,postgres,mysql,sqlite,git,github,powershell,vscode,linux" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000">
